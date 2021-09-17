@@ -1,0 +1,17 @@
+{
+    "name": "gioco-plus/t22-contract",
+    "description": "test 2.2",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "q",
+            "email": "q.wong@goldenf.me"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "GiocoPlus\\T22\\": "src/"
+        }
+    }
+}
